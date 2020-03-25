@@ -1,2 +1,3 @@
 # hello-world
-practice
+Practice
+Trying to learn something new
